@@ -1,0 +1,1 @@
+this is a README.md file for the project on 0x03. Shell, init files, variables and expansions done during the study of Software Engineering Studies at ALX School. The main aims is to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single and double quotes in **Shell*
